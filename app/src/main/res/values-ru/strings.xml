@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лабораторная работа №1</string>
+    <string name="student_name">Яшинский Дмитрий Валерьевич</string>
+    <string name="spec_name">Математика. Мобильная разработка</string>
+    <string name="group_number">Группа 04</string>
+    <string name="land_view_name">Альбомная ориентация</string>
+    <string name="port_view_name">Книжная ориентация</string>
+</resources>
